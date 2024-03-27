@@ -41,30 +41,17 @@ I'm a Front End developer and graphic designer from Mexico.
 <code><img height="20" alt="highcharts" src="https://seeklogo.com/images/H/highcharts-logo-B82D186525-seeklogo.com.png"></code>
 <code><img height="20" alt="mapbox" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F314273%2Fmapbox&psig=AOvVaw1TDmpFZAtjf3BYqMIZr1Zy&ust=1707674773423000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNidpLSuoYQDFQAAAAAdAAAAABAw"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdithOrt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edith Ort's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdithOrt&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdithOrt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edith Ort's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdithOrt&layout=compact&theme=tokyonight&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdithOrt&repo=CDMX009-BurgerQueen&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdithOrt&repo=CDMX009-Data-Lovers&theme=tokyonight" />
+<a href="https://github.com/EdithOrt/your-clipboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdithOrt&repo=your-clipboard&theme=tokyonight" />
 </a>
 
 <br />
 <br />
-
-<!--
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
--->
 
 <!--
 **EdithOrt/EdithOrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
